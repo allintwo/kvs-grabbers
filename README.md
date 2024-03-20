@@ -8,7 +8,6 @@ Upload to plugins -> grabbers
 Message me on https://forum.kernel-video-sharing.com/profile/1512-developer/
 
 Or email me expertdynamicprogrammer@gmail.com
-skype live:rahulaminroktim
 
 ## ## Support us
 If you want to support us
